@@ -1,0 +1,13 @@
+{
+  "name": "ucab",
+  "version": "1.0.0",
+  "description": "UCAB cab booking application",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
+  },
+  "keywords": ["cab", "booking", "mern"],
+  "author": "UCAB Team",
+  "license": "MIT"
+}
